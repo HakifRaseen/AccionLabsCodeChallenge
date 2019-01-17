@@ -1,2 +1,0 @@
-# AccionLabsCodeChallenge
-Created with CodeSandbox
